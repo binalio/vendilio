@@ -1,0 +1,18 @@
+{
+  "name": "vendilio-docs",
+  "version": "1.0.0",
+  "description": "Vendilio project documentation viewer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "documentation",
+    "vendilio"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
